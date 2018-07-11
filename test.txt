@@ -1,0 +1,20 @@
+{
+	"auto_complete": true,
+	"auto_match_enabled": true,
+	"draw_white_space": "all",
+	"tab_size": 4,
+	"translate_tabs_to_spaces":true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false,
+    "wrap_width": false,
+	"font_size": 16.0,
+	"highlight_line": true,
+	"save_on_focus_lost": true,
+	"font_face": "Consolas",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+
+}
+
